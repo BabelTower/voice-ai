@@ -1,0 +1,7 @@
+scipy==1.5.4
+requests==2.25.1
+SoundFile==0.10.3.post1
+baidu_aip==2.2.18.0
+numpy==1.19.4
+sounddevice==0.4.1
+PyAudio==0.2.11
